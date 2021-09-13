@@ -1,1 +1,1 @@
-haskel curry
+Haskel, curry!
