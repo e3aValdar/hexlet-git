@@ -1,2 +1,1 @@
 Haskel, curry!
-new line
